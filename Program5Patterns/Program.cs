@@ -10,6 +10,12 @@ namespace Program5Patterns
     {
         static void Main(string[] args)
         {
+            /*
+             * Write skeleton code that just uses print statements for all the methods, 
+             * and write a test driver that creates a sequence of Shapes and displays
+             * all of the shapes it contains, verifying that your Circle class nicely 
+             * coexists with the other types of Shape.
+             */
         }
     }
 }
